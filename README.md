@@ -15,9 +15,9 @@ This is a simple rule-based AI chatbot developed using Python
 - Python
 
 ## File Information
-* Readme.pdf → Project documentation- Chatbot.py → Main chatbot program
-- output.png → Output screenshot
-- Readme.pdf → Project documentation
+* Readme.pdf → Project documentation
+* Chatbot.py → Main chatbot program
+* output.png → Output screenshot
 
 ## How to Run
 1. Install Python
